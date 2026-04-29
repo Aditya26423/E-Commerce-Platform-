@@ -1,0 +1,4 @@
+.cart-page { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+.cart-page h1 { font-size: 1.75rem; color: #111827; margin-bottom: 1.5rem; }
+.cart-empty { text-align: center; padding: 3rem; color: #6b7280; }
+.cart-empty a { color: #1a56db; display: block; margin-top: 0.5rem; }
